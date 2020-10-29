@@ -1,0 +1,53 @@
+2020-10-29T13:26:35.631 - INFO : Iniciando Banco H2......
+2020-10-29T13:26:35.88 - INFO : Banco H2 iniciado!
+2020-10-29T13:26:35.881 - INFO : Socket Criado
+2020-10-29T13:26:39.764 - INFO : Conexão Esrtabelecida
+2020-10-29T13:26:39.765 - INFO : Inicia Thread
+2020-10-29T13:26:39.782 - INFO : Request :
+¢dªTesteRR
+2020-10-29T13:26:39.786 - INFO : Save - UserDTO - UserDTO [age=31, weight=100, size=1.7, name=TesteRR]
+2020-10-29T13:26:39.994 - ERROR : Erro ao gerar conexão com o Banco de Dados
+2020-10-29T13:26:39.994 - ERROR : Could not locate cfg.xml resource [~/resouces/hibernate.cfg2.xml]
+2020-10-29T13:26:39.996 - ERROR : Save fail - UserDTO - UserDTO [age=31, weight=100, size=1.7, name=TesteRR]
+2020-10-29T13:26:39.996 - ERROR : null
+2020-10-29T13:26:39.997 - INFO : Responce :
+ (
+2020-10-29T13:26:39.998 - INFO : Finaliza Thread
+2020-10-29T13:33:21.791 - INFO : Iniciando Banco H2......
+2020-10-29T13:33:21.85 - ERROR : Erro ao subir banco de dados
+2020-10-29T13:33:21.85 - ERROR : Exception opening port "9092" (port may be in use), cause: "java.net.BindException: Address already in use: JVM_Bind" [90061-200]
+2020-10-29T13:33:21.852 - ERROR : Erro ao iniciar Socket
+2020-10-29T13:33:21.852 - ERROR : Address already in use: JVM_Bind
+2020-10-29T13:33:28.201 - INFO : Iniciando Banco H2......
+2020-10-29T13:33:28.453 - INFO : Banco H2 iniciado!
+2020-10-29T13:33:28.454 - INFO : Socket Criado
+2020-10-29T13:33:32.81 - INFO : Conexão Esrtabelecida
+2020-10-29T13:33:32.811 - INFO : Inicia Thread
+2020-10-29T13:33:32.83 - INFO : Request :
+¢dªTesteRR
+2020-10-29T13:33:32.834 - INFO : Save - UserDTO - UserDTO [age=31, weight=100, size=1.7, name=TesteRR]
+2020-10-29T13:33:33.042 - ERROR : Erro ao gerar conexão com o Banco de Dados
+2020-10-29T13:33:33.043 - ERROR : Could not locate cfg.xml resource [hibernate.cfg.xml]
+2020-10-29T13:33:33.044 - ERROR : Save fail - UserDTO - UserDTO [age=31, weight=100, size=1.7, name=TesteRR]
+2020-10-29T13:33:33.045 - ERROR : null
+2020-10-29T13:33:33.046 - INFO : Responce :
+ (
+2020-10-29T13:33:33.046 - INFO : Finaliza Thread
+2020-10-29T13:33:51.222 - INFO : Iniciando Banco H2......
+2020-10-29T13:33:51.474 - INFO : Banco H2 iniciado!
+2020-10-29T13:33:51.475 - INFO : Socket Criado
+2020-10-29T13:33:54.717 - INFO : Conexão Esrtabelecida
+2020-10-29T13:33:54.718 - INFO : Inicia Thread
+2020-10-29T13:33:54.733 - INFO : Request :
+¢dªTesteRR
+2020-10-29T13:33:54.737 - INFO : Save - UserDTO - UserDTO [age=31, weight=100, size=1.7, name=TesteRR]
+2020-10-29T13:33:56.131 - INFO : Sucess at save - UserDTO
+2020-10-29T13:33:56.132 - INFO : Responce :
+ (
+2020-10-29T13:33:56.133 - INFO : Finaliza Thread
+2020-10-29T13:50:42.5064137 - INFO : Recuperando hora corrente
+2020-10-29T14:03:25.9666224 - INFO : Recuperando hora corrente
+2020-10-29T14:17:04.8387932 - INFO : Recuperando hora corrente
+2020-10-29T14:21:08.663087 - INFO : Recuperando hora corrente
+2020-10-29T14:26:53.2041463 - INFO : Recuperando hora corrente
+2020-10-29T14:31:10.8092561 - INFO : Recuperando hora corrente
