@@ -6,6 +6,7 @@
 
 
 '''
+
 	- java -jar tcpsocket-0.0.1-SNAPSHOT.jar {porta do servidor} {digito crc em inteiro} {tempo de execução da thread em milesegundos}
 '''
 
@@ -22,6 +23,7 @@
 
 #### Utilize para o login no gerenciador do banco de dados os egintes parametros:
 '''
+
 	driver class: org.h2.Driver
 	
 	JDBC URL: jdbc:h2:~/test
@@ -29,4 +31,4 @@
 	user name: sa 
 '''
 
-#####OBS: O campo Password deve estar vazio.
+##### OBS: O campo Password deve estar vazio.
