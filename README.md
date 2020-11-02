@@ -14,7 +14,7 @@
 
 ##### - Porta da maquina destinada aplicação.
 
-##### - Digito de decodificação do crc em valor interiro .
+##### - Digito polinômio CRC de verificação.
 
 ##### - Tempo em mile segundo que a thread será executada sem ser interrompida.
 
