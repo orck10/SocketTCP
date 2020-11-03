@@ -17,7 +17,7 @@
 ##### - Tempo em mile segundo que a thread será executada sem ser interrompida.
 
 
-### Para verificar o salvamento no banco de dados cesse no browser a no IP da maquina onde a aplicação esstá rodando na porta 8082.
+### Para verificar o salvamento no banco de dados acesse no browser a no IP da maquina onde a aplicação esstá rodando na porta 8082.
 
 #### Utilize para o login no gerenciador do banco de dados os egintes parametros:
 
